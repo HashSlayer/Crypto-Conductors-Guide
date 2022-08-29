@@ -165,10 +165,6 @@ continue interacting the in C3 discord servers!
 ### Twitter
 
 * [Cushy](https://twitter.com/CushyCrypto)
-* [Yazzzzir](https://twitter.com/Yazzzzir)
-* [Nick Chong]( https://twitter.com/n2ckchong)
-* [DerickG](https://twitter.com/derickgvibe)
-* [Monkey Rothschild](https://twitter.com/MonkeyCharts)
 
 
 ### Tools
