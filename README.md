@@ -162,14 +162,7 @@ At this point, you've completed the above chapters and are ready to start buildi
 date with the latest web 3 news. Some of the best sources are on twitter. Here are some accounts that may be good to follow, and be sure to 
 continue interacting the in C3 discord servers!
 
-### Twitter
 
-* [Cushy](https://twitter.com/CushyCrypto)
-
-
-### Tools
-
-Here are tools that used in my day-to-day as an auditor:
 
 #### Extensions
 
