@@ -63,9 +63,16 @@ the algorithms used to mine Bitcoin, which is why they are so desired by miners)
 
 ## 2. Learning Solidity Ξ
 
-We suggest reviewing the C3 servers "intro to solidity" guides if you are new to solidity. 
-At this point you are just looking for a basic understanding of the language so you can read the syntax and
-understand what it does.
+It's great to have general concepts of computers, routers and networks, networks protocols, and encryption. It isn't required, but contionously deeping our knowledge on those subjects intitally, and as we go along, can help our minds better grasp and understand exactly what is happening under the hood. The less it seems like magic, the closer we get to the wizardly realm.
+
+In the Crypto Conductors Discord, you can find many guides that may help you with your journey, as well as others like you. Don't be afriad to reach out for help; finding a partner to learn with, or a community that is engaging can be a great way to get questions answered, and excel your learning. Check out some of our guides written by one of our members! https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
+
+You can find other repositories by Spo0ds as well, or below or additonaly great resources to help accel your pathway into web 3:
+
+LearnWeb3.io
+
+HashLips Intro To Solidity 
+
 CryptoZombies
 
 Solidity by Example
@@ -79,12 +86,10 @@ FreeCodeCamp's 16-Hour Course
 ## 3. Getting Deeper; Capture the Flags 🏁
 
 After gaining a basic understanding of Solidity programming, it's time to start understanding
-all the ways smart contracts are built, and broken. Congratsulations on making it this far.
+all the ways smart contracts are built, and broken. Congratsus on making it this far!
 
 In this part we will complete Capture The Flag challenges. Make sure to view our Wallet-Set-Up channel to 
 set a meta-mask wallet up. Many of the games are interactive; 
-
- I recommend completeing them in the following order.
 
 1 Ethernaut:
 https://ethernaut.openzeppelin.com/
@@ -153,7 +158,7 @@ Ok, now you've audited a few contracts, and you've found a few bugs.  Now what? 
 
 Don't want to work for someone else?  You can make [hundreds of thousands of dollars](https://code4rena.com/leaderboard/) independently using [code4rena](https://code4rena.com/) or [immunefi](https://immunefi.com/) instead 🚀
 
-**If you can't land a job with any of these firms, reach out to me.  I may have plenty of work for you.**
+**If you can't land a job with any of these firms, reach out to me.  I may have work for you.**
 
 
 ## 6. Closing 📚
