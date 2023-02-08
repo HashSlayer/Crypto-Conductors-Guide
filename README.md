@@ -1,5 +1,7 @@
 # Crypto Conductors Swan Dive into Web 3
-Cushy Couch Token Holders Guide
+
+Breaking down crypto from token to transistor. 
+
 # Developing the mind of a web 3 progammer
 
 This resource will allow you to understand in depth how most NFTs work on a fundamental level, how contracts are created, and the ability to review
