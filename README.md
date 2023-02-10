@@ -158,8 +158,6 @@ Ok, now you've audited a few contracts, and you've found a few bugs.  Now what? 
 * [Spearbit](https://spearbit.com/)
 
 
-Don't want to work for someone else?  You can make [hundreds of thousands of dollars](https://code4rena.com/leaderboard/) independently using [code4rena](https://code4rena.com/) or [immunefi](https://immunefi.com/) instead 🚀
-
 **If you can't land a job with any of these firms, reach out to me.  I may have work for you.**
 
 
