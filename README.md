@@ -2,7 +2,6 @@
 
 Breaking down crypto from token to transistor. 
 
-## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # Developing the mind of a web 3 progammer
