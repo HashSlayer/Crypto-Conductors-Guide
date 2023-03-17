@@ -65,13 +65,18 @@ and graphics cards. Incidentally the architecture in a GPU (grpahics card) is mo
 the algorithms used to mine Bitcoin, which is why they are so desired by miners) 
 
 
-## 2. Learning Solidity Ξ
+## 2. Learning Solidity & Encryption conceptsΞ
 
 It's great to have general concepts of computers, routers and networks, networks protocols, and encryption. It isn't required, but contionously deeping our knowledge on those subjects intitally, and as we go along, can help our minds better grasp and understand exactly what is happening under the hood. The less it seems like magic, the closer we get to the wizardly realm.
 
-In the Crypto Conductors Discord, you can find many guides that may help you with your journey, as well as others like you. Don't be afriad to reach out for help; finding a partner to learn with, or a community that is engaging can be a great way to get questions answered, and excel your learning. Check out some of our guides written by one of our members! https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
+In the Crypto Conductors Discord, you can find many guides that may help you with your journey, as well as others like you. Don't be afriad to reach out for help; finding a partner to learn with, or a community that is engaging can be a great way to get questions answered, and excel your learning. Check out some of our guides written by one of our members! https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer.
+
+![image](https://user-images.githubusercontent.com/49100995/225945830-f9df6399-bc5d-4a5b-a4d4-8e2f4e8a9fcf.png)
+
 
 You can find other repositories by Spo0ds as well, or below or additonaly great resources to help accel your pathway into web 3:
+
+CushyCrypto.com
 
 LearnWeb3.io
 
@@ -79,15 +84,13 @@ HashLips Intro To Solidity
 
 CryptoZombies
 
-Solidity by Example
 
-Mastering Ethereum
-
-FreeCodeCamp's 16-Hour Course
+![image](https://user-images.githubusercontent.com/49100995/225945242-ec52af41-0f55-41c9-8146-bd6dc249130d.png)
 
 
 
-## 3. Getting Deeper; Capture the Flags 🏁
+
+## 3. Getting Deeper 🏁
 
 After gaining a basic understanding of Solidity programming, it's time to start understanding
 all the ways smart contracts are built, and broken. Congratsus on making it this far!
@@ -104,11 +107,10 @@ https://capturetheether.com/
 3 Damn Vulnerable Defi
 https://www.damnvulnerabledefi.xyz/
 
-4 Paradigm CTF
-https://github.com/paradigm-operations/paradigm-ctf-2021
-
 Try to avoid searching for solutions online until you are have absolutetly run into a dead end.
-Remember to try thinking from different perspectives. This 16 minute video can help one understand how to think from new perspectives better: https://www.youtube.com/watch?v=M64HUIJFTZM
+Remember to try thinking from different perspectives. 
+
+This 16 minute video can help one understand how to think from new perspectives better: https://www.youtube.com/watch?v=M64HUIJFTZM
 There is a great write up of the Paradigm CTF solutions by Christoph Michel, one of the top auditors: https://cmichel.io/paradigm-ctf-2021-solutions/
 
 
@@ -134,49 +136,33 @@ Defi-Learning MOOC
 https://defi-learning.org/f21
 
 
-## 5. Possible Jobs 💼
+## 5. How to BUIDL 💼
 
-Ok, now you've audited a few contracts, and you've found a few bugs.  Now what?  It's time to find work.  Here are a list of the current auditing firms, almost all of which are most certainly hiring someone like you:
+The buidling process can be a difficult start. What to build and where to begin? 
+One suggestion I always like to make is find things that bring you pain or may be tedious, 
+that you can proivde potential solutions to technologically. 
+As you draft your concept up, be sure to share it with others of various diversities,
+especially those qualified in the fields you are beginning to enter, as they will provide great insights.
 
-* [Trail of Bits](https://www.trailofbits.com/careers)
-* [Open Zeppelin](https://openzeppelin.com/security-audits/)
-* [Quantstamp](https://quantstamp.com/careers)
-* [Consensys Diligence](https://consensys.net/diligence/)
-* [Solidified](https://solidified.io/)
-* [Oak Security](https://www.oaksecurity.io/)
-* [Neodyme](https://neodyme.io/)
-* [Peckshield](https://peckshield.com/)
-* [Slowmist](https://www.slowmist.com/en/)
-* [Certik](https://www.certik.com/company/careers)
-* [Halborn](https://halborn.com/careers/)
-* [Solidity Finance](https://solidity.finance/careers/)
-* [Techrate](https://techrate.org/)
-* [Haechi](https://audit.haechi.io/)
-* [Arcadia Group](https://www.arcadiamgroup.com/)
-* [Hacken](https://hacken.io/)
-* [SmartDec](https://smartdec.net/)
-* [CoinFabrik](https://www.coinfabrik.com/#contact_us)
-* [SigmaPrime](https://sigmaprime.io/)
-* [Spearbit](https://spearbit.com/)
+Once you have a good concept of what you would like to try to build, 
+write out an outline of your approach, and what the UI and EX would look like.
+If you have the skills, begin building out basic prototypes, and drafts of either.
+look into emerging technologies, and reach out to their team!
+Perhaps they would be willing to partner or fund your projects,
+especially if that project is deemed a public good. 
 
-
-**If you can't land a job with any of these firms, reach out to me.  I may have work for you.**
+From here, you have created a foundation for something to buidl,
+and remember, if you want to go fast, go alone,
+if you want to go far, go together!
 
 
 ## 6. Closing 📚
 
 At this point, you've completed the above chapters and are ready to start building as a Conductor!  Congratulations, and welcome to the club!  Stay up to
 date with the latest web 3 news. Some of the best sources are on twitter. Here are some accounts that may be good to follow, and be sure to 
-continue interacting the in C3 discord servers!
+continue interacting the in Conductors discord servers!
 
 
 
-#### Extensions
-
-* [Slither VS Code extension](https://marketplace.visualstudio.com/items?itemName=trailofbits.slither-vscode)
-* [Inline Bookmarks VS Code extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-inline-bookmarks)
-* [ETHover VS Code extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-ethover)
-* [Solidity Metrics VS Code extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-inline-bookmarks)
-* [Solidity Visual Developer VS Code extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-
+#### Thanks!
 
