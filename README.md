@@ -62,10 +62,14 @@ How computers do math: https://www.youtube.com/watch?v=VBDoT8o4q00&t=580s
 These 3 videos together will give you a wonderful foundation on how the general PC works. 
 (Keep in mind, there are several ways logic gates can be organized to preform seperate tasks. This is why we have CPUs, 
 and graphics cards. Incidentally the architecture in a GPU (grpahics card) is more effecient at running 
-the algorithms used to mine Bitcoin, which is why they are so desired by miners) 
+the algorithms used to mine Bitcoin, which is why they are so desired by miners)
+
+
+
 
 
 ## 2. Learning Solidity & Encryption conceptsΞ
+
 
 It's great to have general concepts of computers, routers and networks, networks protocols, and encryption. It isn't required, but contionously deeping our knowledge on those subjects intitally, and as we go along, can help our minds better grasp and understand exactly what is happening under the hood. The less it seems like magic, the closer we get to the wizardly realm.
 
