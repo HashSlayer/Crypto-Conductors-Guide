@@ -71,8 +71,6 @@ It's great to have general concepts of computers, routers and networks, networks
 
 In the Crypto Conductors Discord, you can find many guides that may help you with your journey, as well as others like you. Don't be afriad to reach out for help; finding a partner to learn with, or a community that is engaging can be a great way to get questions answered, and excel your learning. Check out some of our guides written by one of our members! https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer.
 
-![image](https://user-images.githubusercontent.com/49100995/225945830-f9df6399-bc5d-4a5b-a4d4-8e2f4e8a9fcf.png)
-
 
 You can find other repositories by Spo0ds as well, or below or additonaly great resources to help accel your pathway into web 3:
 
@@ -85,7 +83,7 @@ HashLips Intro To Solidity
 CryptoZombies
 
 
-![image](https://user-images.githubusercontent.com/49100995/225945242-ec52af41-0f55-41c9-8146-bd6dc249130d.png)
+
 
 
 
